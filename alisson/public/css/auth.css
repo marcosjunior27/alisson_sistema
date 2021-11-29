@@ -1,0 +1,17 @@
+.auth {
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+}
+
+.auth_full {
+    background: linear-gradient(to right, #000 0%, #6128be 100%);
+
+}
+
+.logo_auth {
+    margin: 5%;
+    align-items: center;
+}
